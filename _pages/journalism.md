@@ -1,6 +1,6 @@
 ---
-permalink: /journalism/
-title: "Journalism"
+permalink: /news/
+title: "News"
 ---
 
 ## Teen arrested one year later for allegedly shooting 15-year-old
