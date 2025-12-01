@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Film"
     url: /film/
+  - title: "News"
+    url: /news/
   - title: "Photography"
     url: /photography/
   - title: "American Boy"
