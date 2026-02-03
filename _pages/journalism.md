@@ -6,6 +6,9 @@ title: "News"
 Stories of notable contribution 
 (researching, producing, writing/co-writing)
 
+## CSU Bakersfield campus placed on lockdown after shooting threat
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FWCsXUbl7x8?si=9LlB37Q-IQpBZuPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Teen arrested one year later for allegedly shooting 15-year-old
 <iframe width="560" height="315" src="https://www.youtube.com/embed/j8TfTviWXlk?si=Xd-aO6EPSrWIW05M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
