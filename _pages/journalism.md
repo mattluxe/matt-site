@@ -3,8 +3,14 @@ permalink: /news/
 title: "News"
 ---
 
-Stories of notable contribution 
-(researching, producing, writing/co-writing)
+## Hostage Situation in Bakersfield
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNOftt2OXaQ?si=_BCiLEQNsPJ3m_gu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Chad Bianco denies using word 'swindled’ during CNN debate, KBAK interview shows otherwise
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WvaFyZSHqTU?si=syDfphCr_ZnnaeVb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Victims detail alleged abuse by Cesar Chavez
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UhnZtyKt-GQ?si=VUI20J57ueVBM-jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## CSU Bakersfield campus placed on lockdown after shooting threat
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FWCsXUbl7x8?si=9LlB37Q-IQpBZuPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
