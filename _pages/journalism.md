@@ -3,6 +3,10 @@ permalink: /news/
 title: "News"
 ---
 
+## Continuing Coverage: Deadly B-52 crash at Edwards Air Force Base
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/isaWmP51pto?si=ovs7BOpNMZDofxPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Hostage Situation in Bakersfield
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PNOftt2OXaQ?si=_BCiLEQNsPJ3m_gu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
