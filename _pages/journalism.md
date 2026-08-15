@@ -16,7 +16,7 @@ Role: Writing, Producing, Boothing
 
 Role: Writing, Producing, Boothing
 
-I led with the 5pm show breaking news on a wildfire impacting traffic along a busy stretch of highway and prompting evacuations in the area. I utilized live ALERTCalifornia camera, CAL FIRE evacuation mapping, and succinct graphics to inform viewers quickly and effectively. I gave three additional updates in the show, each focusing on different aspects of the fire: Traffic, Evacuations, and new video from someone driving by the fire.
+I led the 5pm show with breaking news on a wildfire impacting traffic along a busy stretch of highway and prompting evacuations in the area. I utilized live ALERTCalifornia camera, CAL FIRE evacuation mapping, and succinct graphics to inform viewers quickly and effectively. I gave three additional updates in the show, each focusing on different aspects of the fire: Traffic, Evacuations, and new video from someone driving by the fire.
 
 ## Countdown to USMNT World Cup Match
 
@@ -41,11 +41,15 @@ Role: Writing, Producing, Boothing
 
 This breaking story happened on the same day as California's primary election. At the beginning of the day, I thought I knew what to expect, but that quickly changed when the hostage story broke. On a normal day, the hostage story would be wall-to-wall coverage. Instead, I had to balance it with important election information, while trimming nearly everything else.
 
-## Chad Bianco denies using word 'swindled’ during CNN debate, KBAK interview shows otherwise
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WvaFyZSHqTU?si=syDfphCr_ZnnaeVb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Victims detail alleged abuse by Cesar Chavez
 <iframe width="560" height="315" src="https://www.youtube.com/embed/UhnZtyKt-GQ?si=VUI20J57ueVBM-jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Role: Writing, Producing, Boothing
+
+This A-block showcases my ability to build up team coverage on a serious topic. The specially made open and other graphics were requested by me.
+
+## Chad Bianco denies using word 'swindled’ during CNN debate, KBAK interview shows otherwise
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WvaFyZSHqTU?si=syDfphCr_ZnnaeVb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## CSU Bakersfield campus placed on lockdown after shooting threat
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FWCsXUbl7x8?si=9LlB37Q-IQpBZuPI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
