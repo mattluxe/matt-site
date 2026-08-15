@@ -8,7 +8,7 @@ title: "News"
 
 Role: Writing, Producing, Boothing
 
-5pm show from August 12, 2026. A normal day that highlights my showcasing, writing, and teases.
+5pm show from August 12, 2026. A normal day that highlights my showcasing, writing, stacking and teases.
 
 ## Brush fire closes Interstate 5
 
