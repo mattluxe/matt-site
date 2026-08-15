@@ -7,16 +7,28 @@ title: "News"
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BRTJre_MIN0?si=ic7k1L7fLBliM1UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Role: Writing, Producing, Boothing
+I led with the 5pm show breaking news on a wildfire impacting traffic along a busy stretch of highway and prompting evacuations in the area. I utilized live ALERTCalifornia camera, CAL FIRE evacuation mapping, and succinct graphics to inform viewers quickly and effectively. I gave three additional updates in the show, each focusing on different aspects of the fire: Traffic, Evacuations, and new video from someone driving by the fire.
+
 ## Countdown to USMNT World Cup Match
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GBbHC1xwkx0?si=CXXV2uaeHRw6mVJo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Role: Writing, Producing, Boothing
+During this show I had to coordinate two live teams, one in Los Angeles and another in Bakersfield. During our first hit in Los Angeles the picture quality was poor towards the end, but we were able to pivot to weather. I pushed viewers to watch the game using countdown clock graphics and lower thirds detailing where and when to watch.
 
 ## Continuing Coverage: Deadly B-52 crash at Edwards Air Force Base
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/isaWmP51pto?si=ovs7BOpNMZDofxPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Role: Writing, Producing, Boothing
+These clips show how a breaking story develops throughout the week. This story had both local and national attention, so it was important to follow up and update viewers.
+
 ## Hostage Situation in Bakersfield
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PNOftt2OXaQ?si=_BCiLEQNsPJ3m_gu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Role: Writing, Producing, Boothing
+This breaking story happened on the same day as California's primary election. At the beginning of the day, I thought I knew what to expect, but that quickly changed when the hostage story broke. On a normal day, the hostage story would be wall-to-wall coverage. Instead, I had to balance it with important election information, while trimming nearly everything else.
 
 ## Chad Bianco denies using word 'swindled’ during CNN debate, KBAK interview shows otherwise
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WvaFyZSHqTU?si=syDfphCr_ZnnaeVb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
