@@ -3,6 +3,13 @@ permalink: /news/
 title: "News"
 ---
 
+## Regular A-block
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Bvll187ziUA?si=iRwDT0Z6EXT-4zeG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Role: Writing, Producing, Boothing
+
+5pm show from August 12, 2026. A normal day that highlights my showcasing, writing, and teases.
+
 ## Brush fire closes Interstate 5
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BRTJre_MIN0?si=ic7k1L7fLBliM1UU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
