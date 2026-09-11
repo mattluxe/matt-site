@@ -16,8 +16,6 @@ A personal history of a 95-year-old man, told through the pictures and possessio
 
 ### Audience Responses
 
-**How does your perspective compare to that of a 95-year-old?**
-
 An Interactive Documentary Installation created for the 2022 University of Connecticut Digital Media and Design BFA Senior Exhibition.
 
 Participants were instructed to take 3 question cards that corresponded to the questions asked in the installation video and filled them out while viewing. Below are their responses:
