@@ -12,14 +12,11 @@ A personal history of a 95-year-old man, told through the pictures and possessio
 
 ## American Boy
 **Click image below to watch!**
-[![AmericanBoy](/assets/images/americanboyposter.png)](https://drive.google.com/file/d/1M7hWVOZomUAS4QcWg8q3Ck0RMQQc59Fo/view){:target="_blank"}
+[![AmericanBoy](/assets/images/americanboyposter.png)](https://youtu.be/hyQHT7sknMw?is=TN6GK8EhgqtjoZB2){:target="_blank"}
 
 ### Audience Responses
 
 **How does your perspective compare to that of a 95-year-old?**
-
-<iframe src="https://drive.google.com/file/d/1OLlt-tWEE2dRlUieh35MA2I8YvHWSnTQ/preview" width="640" height="360" frameborder="0" allowfullscreen></iframe>
-
 
 An Interactive Documentary Installation created for the 2022 University of Connecticut Digital Media and Design BFA Senior Exhibition.
 
